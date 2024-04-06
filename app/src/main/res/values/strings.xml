@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QuickTriviaApp</string>
+    <string name="button_no">NO</string>
+    <string name="button_yes">YES</string>
+</resources>
